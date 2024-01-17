@@ -1,8 +1,10 @@
-name = input("Masukan nama : ")
+nama = input("Masukan nama : ")
 umur = input("Masukan umur : ")
 alamat = input("Masukan alamat : ")
+jurusan = input("Masukan jurusan : ")
 
 print("\n---Biodata---")
 print("Nama : " + nama)
 print("Umur : " + umur)
 print("Alamat : " + alamat)
+print("Jurusan : " + jurusan)
